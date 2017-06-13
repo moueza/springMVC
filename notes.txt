@@ -1,0 +1,1 @@
+git https://stackoverflow.com/questions/20953940/authentication-failed-to-bitbucket moueza:passw
